@@ -1,0 +1,15 @@
+.title {
+    color: #02ccba;
+}
+
+header{
+    background-color:green;
+    height: 100px;;
+    width: 100%;
+    text-align: center;
+}
+
+h1{
+    margin-top: auto;
+    color: white;
+}
